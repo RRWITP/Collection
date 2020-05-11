@@ -1,11 +1,11 @@
 {
-    "name": "sylae/collection",
+    "name": "valzargaming/collection",
     "replace": {
         "charlottedunois/collection": "self.version"
     },
     "type": "library",
     "description": "Collection, an utility to conventionally store a key-value pair.",
-    "homepage": "https://github.com/sylae/Collection",
+    "homepage": "https://github.com/valzargaming/Collection",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -13,8 +13,8 @@
             "email": "github@charuru.moe"
         },
         {
-            "name": "Keira Dueck",
-            "email": "sylae@calref.net",
+            "name": "Valithor Obsidion",
+            "email": "valzargaming@gmail.com",
             "role": "Maintainer"
         }
     ],
